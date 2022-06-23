@@ -32,7 +32,7 @@ package.json
   "scripts": {  // <===
     "start": "node server.js" // <===
   },
-  "author": "AIT AMAR AYOUB",
+  "author": "Bahite maria",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.3"
